@@ -6,17 +6,17 @@ Built by **Team 02** for academic research and practical deployment in low-resou
 
 ---
 
-## 📌 Project Highlights
+## Project Highlights
 
-- 🔎 Semantic document retrieval using **FAISS**
-- 🧠 Open-source LLMs: `Phi-2`, `GPT-2`, and `Falcon-RW-1B`
-- 🔗 Chain-of-Thought (CoT) prompting to improve reasoning
-- 📊 BLEU & ROUGE-based evaluation of model output
-- 💬 Gradio web interface for user-friendly interaction
+-  Semantic document retrieval using **FAISS**
+-  Open-source LLMs: `Phi-2`, `GPT-2`, and `Falcon-RW-1B`
+-  Chain-of-Thought (CoT) prompting to improve reasoning
+-  BLEU & ROUGE-based evaluation of model output
+-  Gradio web interface for user-friendly interaction
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 career-rag-chatbot/
 ├── app/
@@ -39,13 +39,11 @@ career-rag-chatbot/
 ├── Project_Report.docx
 └── Project_Slides.pptx
 
-yaml
-Copy
-Edit
+
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 1. **Clone the repository**
 
@@ -78,7 +76,7 @@ Phi-2	0.68	0.73	Accurate, Safe
 GPT-2	0.61	0.70	Fluent, Creative
 Falcon-RW	0.64	0.71	Balanced, Clear
 
-📚 Sample Queries
+Sample Queries
 What skills are required for a cybersecurity analyst?
 
 How can I transition from engineering to product management?
