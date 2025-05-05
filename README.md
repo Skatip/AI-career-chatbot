@@ -3,6 +3,7 @@
 A Retrieval-Augmented Generation (RAG) based chatbot that provides personalized career guidance to students using semantic retrieval and open-source language models.
 
 Built by **Team 02** for academic research and practical deployment in low-resource environments.
+You-Tube: https://youtu.be/AZv0E7ubstM
 
 ---
 
