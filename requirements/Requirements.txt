@@ -1,0 +1,16 @@
+# Embedding and Retrieval
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+
+# LLM Inference
+transformers==4.39.3
+
+# Evaluation Metrics
+nltk==3.8.1
+rouge-score==0.1.2
+
+# Web UI
+gradio==4.15.0
+
+# (Optional) Local model runtime (e.g., LLaMA, Mistral via Ollama)
+# ollama>=0.1.27
